@@ -41,7 +41,7 @@
 
 ⬇️⬇️⬇️⬇️
 
-- <a href="https://github.com/ROI-SINGE/ROI-SINGE/fork"><img title="WEB" src="https://img.shields.io/badge/FORK ROI-SINGE-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+- <a href="https://github.com/ROI-SINGE/ROI-SINGE/fork"><img title="WEB" src="https://img.shields.io/badge/FORK ROI•SINGE-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Obtenir une session 📜📬:
 
