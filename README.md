@@ -14,7 +14,7 @@
  
   
 </h1> 
-<p align="center">Je vous présente <b>ROI-SINGE</b>, un bot simple et haisé </p>
+<p align="center">Je vous présente <b>ROI-SINGE</b>, combatant pure </p>
 
 **LE SINGE est un bot whatssap multipleservice pour faciliter notre quotidien sur Whatssap**
 
