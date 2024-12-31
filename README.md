@@ -14,9 +14,9 @@
  
   
 </h1> 
-<p align="center">Je vous présente <b>ROI-SINGE</b>, un bot simple et parfait </p>
+<p align="center">Je vous présente <b>ROI-SINGE</b>, un bot simple et haisé </p>
 
-**LE SINGE est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
+**LE SINGE est un bot whatssap multipleservice pour faciliter notre quotidien sur Whatssap**
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
@@ -37,7 +37,7 @@
 
 ## REPO ROI-SINGE 
 
-1. Cliqué ici la repo et laisser une étoile 🌟 pour m'encourager.
+1. Cliquez ici la repo et laissez une étoile 🌟 pour m'encourager.
 
 ⬇️⬇️⬇️⬇️
 
