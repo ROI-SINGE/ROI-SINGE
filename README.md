@@ -9,14 +9,14 @@
   </p>
  
   
-<a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
+<a href="https://whatsapp.com/channel/0029VaxNPRkFi8xavTfPD71j">
  <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/wsxd2q.jpeg">
  
   
 </h1> 
 <p align="center">Je vous présente <b>ROI-SINGE</b>, un bot simple et parfait </p>
 
-**HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
+**LE SINGE est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
