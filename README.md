@@ -1,4 +1,4 @@
-## MR•RIPLEY &  ASHLEY
+## MR•RIPLEY & ASHLEY
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=ROI-SINGE+BOT" alt="Typing SVG" /></a>
   </p>
@@ -22,13 +22,16 @@
 
 ## MON OBJECTIF 😮‍💨
 
-- **Briser les limites:** vous pourrez révéler la vérité enfouie vue unique et message supprimé 
+- **Briser les limites:**
+   Vue unique et message supprimé 
 
-- **Créer des Stickers:** j'aime pas trop les applications de stickers 
+- **Créer des Stickers:**
+ j'aime pas trop les applications de stickers 
 
-- **Gérer mes groupes:** lorsque l'on crée un groupe whatssap pour plusieurs besoins on a toujours besoin d'un bot pour bien le gérer et fixer des lois ✍🏾️📋
+- **Gérer mes groupes:**
+  On a toujours besoin d'un bot pour bien le gérer et fixer des lois ✍🏾️📋
 
-- **Developper des images et plus:** On pourra facilement développer des stickers en images et des logos fun 🌌
+- **Developper des images et plus:** Developper des stickers en images et des logos fun 🌌
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
