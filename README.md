@@ -1,4 +1,4 @@
-# 🕍
+## MR•RIPLEY & ASHLEY
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=ROI-SINGE+BOT" alt="Typing SVG" /></a>
   </p>
@@ -10,11 +10,11 @@
  
   
 <a href="https://whatsapp.com/channel/0029ValUh4HLY6dDz3Ejla29">
- <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/tyegaz.jpeg">
+ <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/wsxd2q.jpeg">
  
   
 </h1> 
-<p align="center">Je vous présente <b>HOSTEL-B</b>, un bot simple et parfait </p>
+<p align="center">Je vous présente <b>ROI-SINGE</b>, un bot simple et parfait </p>
 
 **HOSTEL B est un bot whatssap construit pour faciliter notre quotidien sur Whatssap**
 
