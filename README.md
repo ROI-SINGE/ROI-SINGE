@@ -52,7 +52,9 @@
 ## DEVELOPPER PAR 🛠️:
 
 - [ROI-SINGE](https://github.com/ROI-SINGE/ROI-SINGE)
-
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ROI•SINGE-blue-svg?style=for-the-badge&logo=github"></a>
+  
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 💰 CONTRIBUTEUR 💰:
