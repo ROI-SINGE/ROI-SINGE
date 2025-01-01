@@ -20,7 +20,7 @@
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
-## DONNÉE DU BOT :
+## DONNÉE DU BOT 🗂️:
 
 - **Briser les limites:**
    Vue unique et message supprimé 
@@ -35,7 +35,7 @@
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
-## REPO ROI-SINGE 
+## REPO ROI-SINGE ⛓️‍💥:
 
 1. Cliquez ici la repo et laissez une étoile 🌟 pour m'encourager.
 
@@ -49,13 +49,13 @@
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
-## DEVELOPPER PAR :
+## DEVELOPPER PAR 🛠️:
 
 - [ROI-SINGE](https://github.com/ROI-SINGE/ROI-SINGE)
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTRIBUTEUR :
+## 💰 CONTRIBUTEUR 💰:
 
 - [CRISTIAN PARCKEUR](https://github.com/Christian-packeur/DARK--MD)
 
