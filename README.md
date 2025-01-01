@@ -31,15 +31,13 @@
 - **Gérer mes groupes:**
   On a toujours besoin d'un bot pour bien le gérer et fixer des lois ✍🏾️📋
 
-- **Developper des images et plus:** Developper des stickers en images et des logos fun 🌌
+- **Developper des images et plus:** Developper des stickers en photo et des logos fun 🌌
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
 ## REPO ROI-SINGE ⛓️‍💥:
 
 1. Cliquez ici la repo et laissez une étoile 🌟 pour m'encourager.
-
-⬇️⬇️⬇️⬇️
 
 - <a href="https://github.com/ROI-SINGE/ROI-SINGE/fork"><img title="WEB" src="https://img.shields.io/badge/FORK ROI•SINGE-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 
