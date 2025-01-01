@@ -1,9 +1,5 @@
 ## MR•RIPLEY & ASHLEY
 
-</p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ROI~SINGE-red.svg?style=for-the-badge&logo=github"></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=ROI-SINGE+BOT" alt="Typing SVG" /></a>
   </p>
 
