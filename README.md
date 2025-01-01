@@ -70,7 +70,7 @@
 
 <p align="center">
 <a href="https://github.com/ROI-SINGE/ROI-SINGE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ROI-SINGE/ROI-SINGE?color=yellow&style=flat-square"></a>
-<a href="https://github.com/ROI-SINGE/ROI-SINGE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ROI-SINGE/ROI-SINGE?color=yellow&style=flat-square"></a>
-<a href="https://github.com/ROI-SINGE/ROI-SINGE/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ROI-SINGE/ROI-SINGE?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/ROI-SINGE/ROI-SINGE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/ROI-SINGE/ROI-SINGE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ROI-SINGE/ROI-SINGE?color=green&style=flat-square"></a>
+<a href="https://github.com/ROI-SINGE/ROI-SINGE/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ROI-SINGE/ROI-SINGE?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ROI-SINGE/ROI-SINGE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-blue.svg"></a>&nbsp;&nbsp;
 </p>
