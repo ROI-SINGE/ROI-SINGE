@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=♾️WHOLL~S🦋;👑ROI+SINGE⚜️;SAINT+EGAL+DES+CIEUX;" alt="Typing SVG" /></a>
   </p>
  
-  
+<p align="center">  
 <a href="https://whatsapp.com/channel/0029VaxNPRkFi8xavTfPD71j">
  <img alt="𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈" height="300" src="https://files.catbox.moe/wsxd2q.jpeg">
  
