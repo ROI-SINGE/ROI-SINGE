@@ -20,7 +20,7 @@
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
-## MON OBJECTIF 😮‍💨
+## DONNÉE DU BOT :
 
 - **Briser les limites:**
    Vue unique et message supprimé 
@@ -49,11 +49,15 @@
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 
-## Developper par :
+## DEVELOPPER PAR :
 
 - [ROI-SINGE](https://github.com/ROI-SINGE/ROI-SINGE)
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## CONTRIBUTEUR :
+
+-[CRISTIAN PARCKEUR](https://github.com/Christian-packeur/DARK--MD)
 
 ## MON CONTACT 📱
 
