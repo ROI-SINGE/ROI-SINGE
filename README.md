@@ -64,6 +64,8 @@
 
 <a href="https://wa.me/241066408537"><img src="https://img.shields.io/badge/Contact ROI•SINGE👑 -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ROI~SINGE-red.svg?style=for-the-badge&logo=github"></a>
