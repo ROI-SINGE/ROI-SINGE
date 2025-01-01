@@ -56,7 +56,7 @@
 
 ## 💰 CONTRIBUTEUR 💰:
 
-- [CRISTIAN PARCKEUR](https://github.com/Christian-packeur/DARK--MD)
+- [CHRISTIAN PARCKEUR](https://github.com/Christian-packeur/DARK--MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
