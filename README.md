@@ -1,6 +1,5 @@
 <p align="center">
-  
-## MR•RIPLEY & ASHLEY
+  **MR•RIPLEY & ASHLEY**
 
 </p>
 <p align="center">
