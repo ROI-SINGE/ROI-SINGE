@@ -1,4 +1,6 @@
-<h1 align="center">  𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈 && 𝙲𝙷𝚁𝙸𝚂𝚃𝙸𝙰𝙽 𝙿𝙰𝚁𝙺𝙴𝚄𝚁  </h1>
+<h1 align="center">  𝙼𝚁∙𝚁𝙸𝙿𝙻𝙴𝚈 
+&& 
+𝙲𝙷𝚁𝙸𝚂𝚃𝙸𝙰𝙽 𝙿𝙰𝚁𝙺𝙴𝚄𝚁  </h1>
 <p align="center"
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=ROI-SINGE+BOT" alt="Typing SVG" /></a>
